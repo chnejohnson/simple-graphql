@@ -1,7 +1,7 @@
 # Simple GraphQL
 This project uses the way called [GraphQL.js GraphQLSchema object](https://blog.apollographql.com/three-ways-to-represent-your-graphql-schema-a41f4175100d) to write GraphQL API, which is defferent from RESTful API. It's a simple way to understand GraphQL's power and test it by GraphiQL easily.
 
-There are two dummy data about book collection and author collection respectively. The book collection has id, name, genre, and authorId. On the other hands, the author collection has id, name, and gender. You can easily find the book's authors or the author's books by querying with GraphiQL, have fun!
+There are two dummy data about book collection and author collection respectively. The book collection has id, name, genre, and authorId. On the other hands, the author collection has id, name, and gender. You can easily find the book's authors or the author's books by querying with GraphiQL. Have fun!
 
 ## Guild
 
